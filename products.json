@@ -1,0 +1,20 @@
+{
+    "1000": {
+        "name": "Title 1",
+        "price": 100,
+        "descr": "Product description",
+        "image": "img/no-image.png"
+    },
+    "1001": {
+        "name": "Title 2",
+        "price": 200,
+        "descr": "Product description",
+        "image": "img/no-image.png"
+    },
+    "1002": {
+        "name": "Title 3",
+        "price": 300,
+        "descr": "Product description",
+        "image": "img/no-image.png"
+    }
+}
